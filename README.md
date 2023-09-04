@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋, i'm Aleksander
 
-🔭 I’m currently working on at IMS B.V., Netherlands.
+🔭 I’m currently working at IMS B.V. as Data Engineer.
+
 📫 How to reach me: 
-
-
-![image](https://github.com/sandro-tsin/sandro-tsin/assets/100228743/2b3dfbfc-9b98-489b-97e0-b3681a2fea0a)
-
+[tg](https://t.me/atsinam)
+[linkedin](www.linkedin.com/in/atsinam/)
 
 
 <!--
