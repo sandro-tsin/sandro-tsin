@@ -4,7 +4,7 @@
 
 📫 How to reach me: [tg](https://t.me/atsinam) [linkedin](www.linkedin.com/in/atsinam/)
 
-
+Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica 𐤟 Kafka 𐤟 MongoDB DataLens 𐤟 SparkStreaming
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
