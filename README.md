@@ -1,6 +1,7 @@
 ### Hi there 👋, i'm Aleksander.
 
 Data engineer with more than 2 years of experience in BigData projects in various positions.
+Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica 𐤟 Kafka 𐤟 MongoDB DataLens 𐤟 SparkStreaming
 
 
 
@@ -8,7 +9,6 @@ Data engineer with more than 2 years of experience in BigData projects in variou
 
 📫 How to reach me: [tg](https://t.me/atsinam) [linkedin](www.linkedin.com/in/atsinam/)
 
-Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica 𐤟 Kafka 𐤟 MongoDB DataLens 𐤟 SparkStreaming
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
