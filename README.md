@@ -1,6 +1,7 @@
 ### Hi there 👋, i'm Aleksander.
 
 Data engineer with more than 2 years of experience in BigData projects in various positions.
+
 Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica 𐤟 Kafka 𐤟 MongoDB DataLens 𐤟 SparkStreaming
 
 
