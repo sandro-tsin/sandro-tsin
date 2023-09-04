@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on at IMS B.V. 
+🔭 I’m currently working on at IMS B.V., Netherlands.
+📫 How to reach me: 
+:postbox: 
+
 
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
