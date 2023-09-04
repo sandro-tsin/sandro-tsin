@@ -1,6 +1,8 @@
-### Hi there 👋, i'm Aleksander
+### Hi there 👋, i'm Aleksander.
 
-🔭 I’m currently working at IMS B.V. as Data Engineer.
+Data engineer with more than 2 years of experience in BigData projects in various positions.
+
+🔭 I’m currently working at IMS B.V.
 
 📫 How to reach me: [tg](https://t.me/atsinam) [linkedin](www.linkedin.com/in/atsinam/)
 
