@@ -8,7 +8,9 @@ Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica �
 
 🔭 I’m currently working at IMS B.V.
 
-📫 How to reach me: [tg](https://t.me/atsinam) [linkedin](www.linkedin.com/in/atsinam/)
+📫 How to reach me: 
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/atsinam/]
+[tg](https://t.me/atsinam) 
 
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
