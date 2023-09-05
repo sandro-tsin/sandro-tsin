@@ -9,6 +9,7 @@ Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica �
 🔭 I’m currently working at IMS B.V.
 
 📫 How to reach me: 
+
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2421/512/Telegram-1024.png" />][telegram]
 
