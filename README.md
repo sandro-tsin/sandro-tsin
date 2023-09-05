@@ -10,7 +10,7 @@ Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica �
 
 📫 How to reach me: 
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://icons8.com/icon/lUktdBVdL4Kb/telegram" />][telegram]
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2421/512/Telegram-1024.png" />][telegram]
 
 
 
