@@ -9,8 +9,11 @@ Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica �
 🔭 I’m currently working at IMS B.V.
 
 📫 How to reach me: 
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/atsinam/]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [tg](https://t.me/atsinam) 
+
+
+[linkedin]: https://www.linkedin.com/in/opa-oz/
 
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
