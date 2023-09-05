@@ -10,10 +10,12 @@ Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica �
 
 📫 How to reach me: 
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[tg](https://t.me/atsinam) 
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://icons8.com/icon/lUktdBVdL4Kb/telegram" />][telegram]
+
 
 
 [linkedin]: https://www.linkedin.com/in/opa-oz/
+[telegram]: https://www.skyeng.ru/
 
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
