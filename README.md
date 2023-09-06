@@ -16,7 +16,7 @@ Python 𐤟 PostgreSQL 𐤟 Airflow Crontab 𐤟 PySpark 𐤟 Hadoop Vertica �
 
 
 [linkedin]: https://www.linkedin.com/in/opa-oz/
-[telegram]: https://www.skyeng.ru/
+[telegram]: https://t.me/atsinam/
 
 <!--
 **sandro-tsin/sandro-tsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
